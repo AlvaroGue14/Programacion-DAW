@@ -26,15 +26,20 @@ public class App {
             
         int aa='a'; //un caracter se guarda en un entero segun la tabla ASCII
         char c=98;
-        System.out.print(aa+" "+c);
-        
-    }
+        System.out.println(aa+" "+c);
         
         /*
          * Programa para imprimir texto
          * @author Alvaro Guevara
          * 
          */
+
+        System.err.println("lo que sea");
+        System.err.println("un bonito error");
+
+    }
+        
+        
 
         public static void imprimirTexto(String texto){
             boolean logico=false;
