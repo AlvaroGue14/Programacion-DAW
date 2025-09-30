@@ -1,6 +1,4 @@
-package actividades;
-
-public class Actividades {
+public class Actividad1 {
     public static void main(String[] args) throws Exception {
      
         int min=1, max=100;
