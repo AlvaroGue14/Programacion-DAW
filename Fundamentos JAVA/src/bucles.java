@@ -5,7 +5,7 @@ public class bucles {
         for (int i=0;i<5;i++){
             System.out.println(i);
         }
-
+    
         //Caso bicle infinito
         int j=0;
         while (j<5){
