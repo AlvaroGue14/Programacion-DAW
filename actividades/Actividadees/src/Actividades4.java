@@ -80,8 +80,5 @@ public static void main (String[] args){
     System.out.println("El maximo es "+maximo);
     System.out.println("El minimo es "+minimo);
 
-    //Actividad 4
-    
-
         }
     }

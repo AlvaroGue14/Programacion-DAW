@@ -29,14 +29,6 @@ public class adivina {
             System.out.println("Lo has intentado "+intentos+" vez/es");
         } while (!encontrado);
 
-
-
-
-       
-
-
-
-
     }
 }
 
